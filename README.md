@@ -84,9 +84,9 @@ Also header file of class containing different data structures is added for reus
 The hardest aspect was putting in as much validation as we could. We initially found it challenging, but we eventually succeeded since using validations was essential for DSA implementation to be perfect; otherwise, our code would have not been complete. Another challenging part was to keep track of every change made in the text for undo and redo purposes. The final issue was storing words in nodes as our text contained spaces that were not part of words. With group efforts, we overcome all the hurdles making our project implementable.
 
 # 	ADVANTAGES:
-	 Our program uses both linked lists and stacks that can contribute to an efficient, scalable, and easily maintainable structure for managing text data and user operations in the text editor.
+-  Our program uses both linked lists and stacks that can contribute to an efficient, scalable, and easily maintainable structure for managing text data and user operations in the text editor.
  
-   Our program is entirely focused on the goal of the course i.e. implementation of Data Structure Algorithms and Applications.
+-  Our program is entirely focused on the goal of the course i.e. implementation of Data Structure Algorithms and Applications.
 
 # 	LIMITATIONS:
 
